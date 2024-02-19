@@ -1,0 +1,12 @@
+{
+    "name": "clicker",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "build": "SET NODE_ENV=production & rspack build"
+    },
+    "devDependencies": {
+        "@rspack/cli": "0.5.4",
+        "@rspack/core": "0.5.4"
+    }
+}
